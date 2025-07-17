@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Bartolomé Consultores](https://www.bartolomeconsultores.com/)
 
-- 🌱 I’m currently learning **cybersecurity, pentesting, software development, artificial intelligence**
+- 🌱 I’m currently learning **cybersecurity, artificial intelligence, software development, **
 
 - 📫 How to reach me **albertobartolomeiruela@gmail.com**
 
